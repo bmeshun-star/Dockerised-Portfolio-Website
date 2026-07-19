@@ -39,33 +39,30 @@ docker-portfolio/
 
 ---
 
-# :camera_with_flash: Project Screenshots
+# Project Screenshots
 
-## Portfolio running inside Docker
+## Portfolio running inside Docker + Nginx
 
-
-*(Add Screenshot)*
+<div align="center">
+  <img src="Screenshots/Portfolio.jpeg" alt="Dockerised Portfolio Website Preview" style="max-width: 750px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</div>
 
 ---
 
 ## Docker Image Successfully Built
 
-
-*(Add Screenshot)*
+<div align="center">
+  <img src="Screenshots/Docker_images.jpeg" alt="Docker build success output showing image created" style="max-width: 700px; border-radius: 8px;">
+</div>
 
 ---
 
 ## Running Container (`docker ps`)
 
-
-*(Add Screenshot)*
-
----
-
-## Docker Images
-
-
-*(Add Screenshot)*
+<div align="center">
+  <img src="Screenshots/Docker_ps.jpeg" alt="docker ps output showing running portfolio container" style="max-width: 700px; border-radius: 8px;">
+  <p><em>Output confirming the container is up and serving on port 80</em></p>
+</div>
 
 ---
 
@@ -331,5 +328,3 @@ Understanding this concept made Docker "click" for me.
 # :white_check_mark: Project Status
 
 **Completed Successfully**
-
-```
